@@ -1,0 +1,240 @@
+
+
+
+body{
+	
+	background: url(https://cutewallpaper.org/21/cryptocurrency-wallpaper/Cryptocurrency-Exchange-Development-Services-Company-White-.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.toggle{
+	text-align: center;
+	padding-top: 25vh ;
+	padding-bottom: 25vh;
+	height: 100vh;
+	
+}
+.toggle p{
+	color: white;
+	font-size: 40px;
+	box-sizing: border-box;
+
+}/*
+.toggle button,p{
+	position: relative;
+	top: 40vh;
+}
+*/
+
+.toggle button{
+	font-size: 30px;
+	border-radius: 20px;
+	border: 2px solid red;
+	/* padding: 3px 8px 3px 8px;
+	margin: 3px; */
+	/* margin-top: 30px; */
+	margin-bottom: 30px;
+}
+
+#stockButton{
+	width: 200px;
+	height: 70px;
+	margin: 20px;
+	color: white;
+	background-color: transparent;
+	align-items: center;
+	transition: 0.3s;
+}
+
+#cryptoButton{
+	width: 200px;
+	height: 70px;
+	margin: 20px;
+	color: white;
+	background-color: transparent;
+	align-items: center;
+	transition: 0.3s;
+}
+
+#stockButton:hover, #stockButton:active{
+	font-size: 40px;
+	border-radius: 10px;
+	border: 3.5px solid red;
+	color: #212529;
+    background-color: #c2b00a;
+}
+
+#cryptoButton:hover{
+	font-size: 40px;
+	border-radius: 10px;
+	border: 3.5px solid red;
+	color: #212529;
+    background-color: #c2b00a;
+}
+
+
+/* Stock Name */
+
+.stocks div{
+	font-size: 30px;
+	display: flex;
+	padding-top: 30px;
+	justify-content: center;
+}
+
+/* Graph */
+.graphs div{
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+}
+
+#stocksection{
+	display: flex;
+	flex-direction: column;
+}
+
+.stockcontent{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	color: white;
+	background-color: #111;
+	padding-bottom: 50px;
+
+}
+
+.stockcontent2{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	color: white;
+	/* background: url(https://s0.2mdn.net/9933010/CHOC_CADBURY-CELEBRATIONS_IN_ENG_DAIMG_DIS_X_SRK_2021OCT07_728X90_GDN.jpg); */
+
+}
+
+.stockcontent .p1{
+	font-size: 25px;
+    line-height: 145%;
+    letter-spacing: 0.4px;
+    font-weight: 600
+}
+
+.stockcontent .p2{
+	font-size: 68px;
+    line-height: 125%;
+    letter-spacing: -0.65px;
+    font-weight: 600;
+}
+
+
+.learnMore{
+	font-size: 29px;
+    letter-spacing: 0.02em;
+    font-weight: 600;
+    border: 2px solid white;
+    padding: 22px;
+    margin: 7px;
+    background-color: transparent;
+    color: white;
+	transition: 0.1s;
+}
+
+.learnMore:hover{
+	background-color: grey;
+}
+
+#sec2{
+	background: url(https://crypto.com/static/b4294bb911b426799dfae7340dba840a/ff3b2/buy-and-sell.png);
+}
+
+table{
+	margin: auto;
+	width: 70%;
+	
+}
+
+table .t1{
+	font-size: 24px;
+    line-height: 145%;
+    letter-spacing: 0em;
+    font-weight: 600;
+	color: white;
+	text-align: left;
+}
+
+table .t7{
+	padding-left: 40px;
+}
+
+table .t2{
+	font-size: 20px;
+    line-height: 145%;
+    margin: 0px 8px 0px 0px;
+    color: rgb(125, 125, 125);
+	text-align: left;
+}
+
+table .t5{
+	font-size: 32px;
+    line-height: 125%;
+    letter-spacing: 0em;
+    font-weight: 600;
+	color: white;
+	text-align: left;
+	/* width: 30px; */
+}
+
+table .t3{
+	font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0.015em;
+    font-weight: 600;
+	color: rgb(32, 188, 164); 
+	text-align: left;
+	width: 600vh;
+	/* margin-left: -90px; */
+}
+
+table .t4{
+	font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0.015em;
+    font-weight: 600;
+	color: rgb(230, 75, 96);
+	text-align: left;
+	/* margin-left: -90px; */
+}
+
+table .t6{
+	font-size: 21px;
+    letter-spacing: 0.02em;
+    font-weight: 600;
+    padding-left: 24px;
+	color: rgb(14,33,59);
+    padding-right: 24px;
+	width: 160px;
+    height: 48px;
+	background: white;
+	border: 1.5px solid white;
+	border-radius: 7px;
+    cursor: pointer;
+    outline: none;
+	transition: 0.2s;
+}
+
+table .t6:hover{
+	background-color: transparent;
+	color: white;
+}
+
+
+table tr{
+	height: 60px;
+}
+
+#sec1{
+	background-color: black;
+}
